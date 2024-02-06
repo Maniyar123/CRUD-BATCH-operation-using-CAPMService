@@ -1,0 +1,142 @@
+[
+    {
+        "INTERFACE_TYPE": 530736090,
+        "PARAMETER_ID": 826787617,
+        "VALUE_ID": "TQmHzdbSGGiKXarMnXvirSPrjGDWuzen",
+        "VALUE_NAME": "VALUE_NAME1",
+        "POSITION": 1389412923
+    },
+    {
+        "INTERFACE_TYPE": 951127461,
+        "PARAMETER_ID": 1787573231,
+        "VALUE_ID": "hhcahOfJoQNDczUoXexKCApvcPRdYAKw",
+        "VALUE_NAME": "VALUE_NAME2",
+        "POSITION": 724484453
+    },
+    {
+        "INTERFACE_TYPE": 1551902188,
+        "PARAMETER_ID": 1956979069,
+        "VALUE_ID": "DcWqCRyVvaWVxwNMmPRbzaFUhJrlPsfA",
+        "VALUE_NAME": "VALUE_NAME3",
+        "POSITION": 1554299646
+    },
+    {
+        "INTERFACE_TYPE": 841043543,
+        "PARAMETER_ID": 2033802308,
+        "VALUE_ID": "WIlGMNvKVAzpftcWDqhJNPXDbdihXGch",
+        "VALUE_NAME": "VALUE_NAME4",
+        "POSITION": 782549367
+    },
+    {
+        "INTERFACE_TYPE": 913031038,
+        "PARAMETER_ID": 2116633130,
+        "VALUE_ID": "sKxzaXCuMjgxCulbmsOBDgggVtBUCeFE",
+        "VALUE_NAME": "VALUE_NAME5",
+        "POSITION": 1830555649
+    },
+    {
+        "INTERFACE_TYPE": 1051482144,
+        "PARAMETER_ID": 512488859,
+        "VALUE_ID": "LqDfwcmOWHbCFAfJftZTanHwwxNJHEvp",
+        "VALUE_NAME": "VALUE_NAME6",
+        "POSITION": 376487216
+    },
+    {
+        "INTERFACE_TYPE": 658230217,
+        "PARAMETER_ID": 1521945464,
+        "VALUE_ID": "yDmiznYxlWwtLhINCiwPvniLfxzQvfym",
+        "VALUE_NAME": "VALUE_NAME7",
+        "POSITION": 2026623210
+    },
+    {
+        "INTERFACE_TYPE": 439410661,
+        "PARAMETER_ID": 1552268980,
+        "VALUE_ID": "qXLGkXPCzjKZGLwAQfiOtCaTIpDogGdN",
+        "VALUE_NAME": "VALUE_NAME8",
+        "POSITION": 409329698
+    },
+    {
+        "INTERFACE_TYPE": 1802170582,
+        "PARAMETER_ID": 1892505059,
+        "VALUE_ID": "pFdgFZLjBVxvffgxjEdfAJLBAtoGBtnW",
+        "VALUE_NAME": "VALUE_NAME9",
+        "POSITION": 1227203968
+    },
+    {
+        "INTERFACE_TYPE": 1440897400,
+        "PARAMETER_ID": 332623340,
+        "VALUE_ID": "ZAHuHqcRurCSclzvQgBUyUDQGOdcoDzZ",
+        "VALUE_NAME": "VALUE_NAME10",
+        "POSITION": 2059237981
+    },
+    {
+        "INTERFACE_TYPE": 183427174,
+        "PARAMETER_ID": 1495206801,
+        "VALUE_ID": "jaPItyFDDdhCbzMOsVTdwhBAiBFVDJxw",
+        "VALUE_NAME": "VALUE_NAME11",
+        "POSITION": 364321518
+    },
+    {
+        "INTERFACE_TYPE": 743645244,
+        "PARAMETER_ID": 1541333851,
+        "VALUE_ID": "rDmXOxKgFHunsLkVjqYfEMdsIwquPDRr",
+        "VALUE_NAME": "VALUE_NAME12",
+        "POSITION": 566797684
+    },
+    {
+        "INTERFACE_TYPE": 680920070,
+        "PARAMETER_ID": 1399389996,
+        "VALUE_ID": "evJoRTfyCyXQIaYDqSyRbLNYcXCJAWFG",
+        "VALUE_NAME": "VALUE_NAME13",
+        "POSITION": 1445459275
+    },
+    {
+        "INTERFACE_TYPE": 762943913,
+        "PARAMETER_ID": 1463886539,
+        "VALUE_ID": "fNtbXiUwyheztsnHcJZBKxFABwXvQtQU",
+        "VALUE_NAME": "VALUE_NAME14",
+        "POSITION": 897900176
+    },
+    {
+        "INTERFACE_TYPE": 536993375,
+        "PARAMETER_ID": 1354702820,
+        "VALUE_ID": "AMjTjBbRPrikSixfCpWMJaEqwMNMRraz",
+        "VALUE_NAME": "VALUE_NAME15",
+        "POSITION": 1722199670
+    },
+    {
+        "INTERFACE_TYPE": 1809954645,
+        "PARAMETER_ID": 1814164914,
+        "VALUE_ID": "TmmhTMNFmReNUHSyYQHjSekLIoWjIaZx",
+        "VALUE_NAME": "VALUE_NAME16",
+        "POSITION": 1279228643
+    },
+    {
+        "INTERFACE_TYPE": 97716505,
+        "PARAMETER_ID": 2061206075,
+        "VALUE_ID": "uxbFMvWSGyttCrPoewMvVvpnjWSqcDkU",
+        "VALUE_NAME": "VALUE_NAME17",
+        "POSITION": 969327437
+    },
+    {
+        "INTERFACE_TYPE": 1103914787,
+        "PARAMETER_ID": 1522781130,
+        "VALUE_ID": "GKFjSrDxXsnxIARHhrdouRbhkmsuQGls",
+        "VALUE_NAME": "VALUE_NAME18",
+        "POSITION": 373207233
+    },
+    {
+        "INTERFACE_TYPE": 1378925040,
+        "PARAMETER_ID": 1697810678,
+        "VALUE_ID": "szsvJvbAtQWTZLJITufNIrfEukksjxdn",
+        "VALUE_NAME": "VALUE_NAME19",
+        "POSITION": 332473174
+    },
+    {
+        "INTERFACE_TYPE": 722490590,
+        "PARAMETER_ID": 231128900,
+        "VALUE_ID": "fEcQLoQmIZlZlnHZkoXvfTdWAvdJcCed",
+        "VALUE_NAME": "VALUE_NAME20",
+        "POSITION": 511422371
+    }
+]

@@ -1,0 +1,61 @@
+<mvc:View controllerName="com.odatacrudoperations.capodatacrudoperations.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Table id="table" headerText="EMPLOYEE DATA" items="{/Interactions_Employee}" mode="MultiSelect"  >
+       <headerToolbar>
+            <Toolbar id="createToolBar">
+            
+            <ToolbarSpacer id="createToolBarSpacer">
+            </ToolbarSpacer>
+            <Button id="create" text="Single_Record"  icon="sap-icon://add-activity" press="OnPressCreateDataButton" iconFirst="false"></Button>
+            <Button id="addBatchButton" text="Multipule_Record's" icon="sap-icon://add-activity-2" press="OnPressAddBatchButton"></Button>
+            <Button id="multiUpdateBatch" text="Multi_Edit" icon="sap-icon://edit" press="onMultiEditBatchButton"></Button>
+            <Button id="multiDelteButton" icon="sap-icon://delete" press="onTableMultiDeleteButtonPress" type="Reject"></Button>
+            </Toolbar>
+            
+        </headerToolbar>
+       <columns>
+       <Column id="column1">
+       <Text id="textId" text="ID"></Text>
+       </Column>
+       <Column id="colum2">
+        <Text id="textName" text="NAME"></Text>
+       </Column>
+       <Column id="colum3">
+
+
+       
+        <Text id="textDoj" text="DOJ"></Text>
+       </Column>
+       <Column id="colum4">
+        <Text id="textRole" text="ROLE"></Text>
+       </Column>
+       <Column id="colum5">
+        <Text id="textCompany" text="COMPANYN"></Text>
+       </Column>
+       <Column id="colum6">
+        <Text id="textskill" text="SKILLED"></Text>
+       </Column>
+       <Column id="action1" >
+                       <Text text="Action" id="updateAction" ></Text>
+                  </Column>
+       </columns>
+     <items>
+                <ColumnListItem id="cells" >
+                  <cells>
+                         <!-- <CheckBox id="checkBox" selected="{selected}" /> -->
+                        <Text text="{ID}" id="cell2"/>
+                        <Text text="{NAME}" id="cell3"/>
+                        <Text text="{DOJ}" id="cell4"/>
+                        <Text text="{ROLE}" id="cell5"/>
+                        <Text text="{COMPANYN}" id="cell6"/>
+                        <Text text="{SKILLED}" id="cell7"/>
+                        <HBox>
+                        <Button id="upButton"  press="onUpdateButtonPress" icon="sap-icon://edit" class="sapUiSmallMarginEnd" type="Success"></Button>
+                        <Button id="tableDeleteButton" press="onTableDeleteItem" icon="sap-icon://delete" type="Reject" ></Button>
+                        </HBox>
+                  </cells>
+                </ColumnListItem>
+                </items>
+       </Table>
+</mvc:View>

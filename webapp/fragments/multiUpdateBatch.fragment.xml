@@ -1,0 +1,55 @@
+                    <core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:l="sap.ui.layout" xmlns:f="sap.ui.layout.form">
+                    <Dialog id="Dilog2" title=" UpDate Employee Details" contentWidth="1000px">
+                    <Table id="multiBatchUpdateFragment" items="{updateModel>/}">
+                    <columns>
+                    <Column>
+                    <header>
+                    <Label text="{ID}"></Label>
+                    </header>
+                    </Column>
+                    <Column>
+                    <header>
+                    <Label text="{NAME}"></Label>
+                    </header>
+                    </Column>
+                    <Column>
+                    <header>
+                    <Label text="{DOJ}"></Label>
+                    </header>
+                    </Column>
+                    <Column>
+                    <header>
+                    <Label text="{ROLE}"></Label>
+                    </header>
+                    </Column>
+                    <Column>
+                    <header>
+                    <Label text="{COMPANY}"></Label>
+                    </header>
+                    </Column>
+                    <Column>
+                    <header>
+                    <Label text="{SKILLED}"></Label>
+                    </header>
+                    </Column>
+                    </columns>
+                    <items>
+                    <ColumnListItem>
+                    <cells>
+                    <Input value="{updateModel>ID}" id="batchIdInputBox"></Input>
+                    <Input value="{updateModel>NAME}"></Input>
+                    <Input value="{updateModel>DOJ}"></Input>
+                    <Input value="{updateModel>ROLE}"></Input>
+                    <Input value="{updateModel>COMPANYN}"></Input>
+                    <Input value="{updateModel>SKILLED}"></Input>
+                    </cells>
+                    </ColumnListItem>
+                    </items>
+                    </Table>
+                    <buttons>
+                    <Button type="Accept" text="Update" press="onSaveMulti"></Button>
+                    <Button type="Reject" text="Cancel" press="onCancel1"></Button>
+                    <!--<Button text="Delete" press="onDelete"></Button>-->
+                    </buttons>
+                    </Dialog>
+                    </core:FragmentDefinition>

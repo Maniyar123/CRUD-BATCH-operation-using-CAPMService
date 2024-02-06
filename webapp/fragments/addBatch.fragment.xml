@@ -1,0 +1,74 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:l="sap.ui.layout" xmlns:f="sap.ui.layout.form">
+    <Dialog id="Dialog2" title="Employee Details" contentWidth="1000px">
+        <Table id="batchTable" headerText="Batch" items="{jTabModel>/items}">
+            <columns>
+                <Column>
+                    <header>
+                        <Label text="ID"></Label>
+                        
+                    </header>
+                </Column>
+                <Column>
+                    <header>
+                        <Label text="NAME"></Label>
+                    </header>
+                </Column>
+                <Column>
+                    <header>
+                        <Label text="DOJ"></Label>
+                    </header>
+                </Column>
+                <Column>
+                    <header>
+                        <Label text="ROLE"></Label>
+                    </header>
+                </Column>
+                <Column>
+                    <header>
+                        <Label text="COMPANY"></Label>
+                    </header>
+                </Column>
+                <Column>
+                    <header>
+                        <Label text="SKILLED"></Label>
+                    </header>
+                </Column>
+                <Column>
+                    <header>
+                        <Label text="Actions"></Label>
+                    </header>
+                </Column>
+                
+            </columns>
+            <items>
+                <ColumnListItem>
+                    <cells>
+                        <Input value="{jTabModel>ID}"></Input>
+                        <Input value="{jTabModel>NAME}"></Input>
+                        <Input value="{jTabModel>DOJ}"></Input>
+                        <Input value="{jTabModel>ROLE}"></Input>
+                        <Input value="{jTabModel>COMPANYN}"></Input>
+                        <Input value="{jTabModel>SKILLED}"></Input>
+                        <HBox>
+                               
+                        <Button icon="sap-icon://add" press="onAddRow" type="Success" class="sapUiSmallMarginEnd"></Button>
+                        <Button icon="sap-icon://delete" press="onDeleteRow" type="Reject" ></Button>
+                        
+                        </HBox>
+                    </cells>
+                </ColumnListItem>
+            </items>
+        </Table>
+        <!-- <Toolbar>
+            <content> -->
+            
+              <beginButton>
+                <Button icon="sap-icon://save" press="onBatchSave" type="Success" text="Submit"></Button>
+                </beginButton>
+                <endButton>
+                <Button text="Cancel" press="onCancel2" type="Reject"></Button>
+                </endButton>
+            <!-- </content>
+        </Toolbar> -->
+    </Dialog>
+</core:FragmentDefinition>

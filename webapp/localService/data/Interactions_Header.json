@@ -1,0 +1,122 @@
+[
+    {
+        "PARTNER": "PARTNER1",
+        "LOG_DATE": "/Date(288940508000)/",
+        "BPCOUNTRY_code": "BP1",
+        "ID": 1216237240
+    },
+    {
+        "PARTNER": "PARTNER2",
+        "LOG_DATE": "/Date(619613639000)/",
+        "BPCOUNTRY_code": "BP2",
+        "ID": 1910721390
+    },
+    {
+        "PARTNER": "PARTNER3",
+        "LOG_DATE": "/Date(113137223000)/",
+        "BPCOUNTRY_code": "BP3",
+        "ID": 1801878386
+    },
+    {
+        "PARTNER": "PARTNER4",
+        "LOG_DATE": "/Date(156378973000)/",
+        "BPCOUNTRY_code": "BP4",
+        "ID": 1544921240
+    },
+    {
+        "PARTNER": "PARTNER5",
+        "LOG_DATE": "/Date(910945734000)/",
+        "BPCOUNTRY_code": "BP5",
+        "ID": 1628493301
+    },
+    {
+        "PARTNER": "PARTNER6",
+        "LOG_DATE": "/Date(72571659000)/",
+        "BPCOUNTRY_code": "BP6",
+        "ID": 956036222
+    },
+    {
+        "PARTNER": "PARTNER7",
+        "LOG_DATE": "/Date(125399176000)/",
+        "BPCOUNTRY_code": "BP7",
+        "ID": 2147359004
+    },
+    {
+        "PARTNER": "PARTNER8",
+        "LOG_DATE": "/Date(1218862864000)/",
+        "BPCOUNTRY_code": "BP8",
+        "ID": 808006061
+    },
+    {
+        "PARTNER": "PARTNER9",
+        "LOG_DATE": "/Date(1377633266000)/",
+        "BPCOUNTRY_code": "BP9",
+        "ID": 1354072230
+    },
+    {
+        "PARTNER": "PARTNER10",
+        "LOG_DATE": "/Date(933542098000)/",
+        "BPCOUNTRY_code": "B10",
+        "ID": 948550926
+    },
+    {
+        "PARTNER": "PARTNER11",
+        "LOG_DATE": "/Date(451679240000)/",
+        "BPCOUNTRY_code": "B11",
+        "ID": 562571160
+    },
+    {
+        "PARTNER": "PARTNER12",
+        "LOG_DATE": "/Date(777145917000)/",
+        "BPCOUNTRY_code": "B12",
+        "ID": 488056034
+    },
+    {
+        "PARTNER": "PARTNER13",
+        "LOG_DATE": "/Date(920261867000)/",
+        "BPCOUNTRY_code": "B13",
+        "ID": 2042300159
+    },
+    {
+        "PARTNER": "PARTNER14",
+        "LOG_DATE": "/Date(1438454057000)/",
+        "BPCOUNTRY_code": "B14",
+        "ID": 1907844339
+    },
+    {
+        "PARTNER": "PARTNER15",
+        "LOG_DATE": "/Date(722625241000)/",
+        "BPCOUNTRY_code": "B15",
+        "ID": 927108894
+    },
+    {
+        "PARTNER": "PARTNER16",
+        "LOG_DATE": "/Date(1302341625000)/",
+        "BPCOUNTRY_code": "B16",
+        "ID": 138058973
+    },
+    {
+        "PARTNER": "PARTNER17",
+        "LOG_DATE": "/Date(165471397000)/",
+        "BPCOUNTRY_code": "B17",
+        "ID": 106193352
+    },
+    {
+        "PARTNER": "PARTNER18",
+        "LOG_DATE": "/Date(1370365092000)/",
+        "BPCOUNTRY_code": "B18",
+        "ID": 1997601308
+    },
+    {
+        "PARTNER": "PARTNER19",
+        "LOG_DATE": "/Date(1204792517000)/",
+        "BPCOUNTRY_code": "B19",
+        "ID": 1420448852
+    },
+    {
+        "PARTNER": "PARTNER20",
+        "LOG_DATE": "/Date(498243034000)/",
+        "BPCOUNTRY_code": "B20",
+        "ID": 1476034794
+    }
+]

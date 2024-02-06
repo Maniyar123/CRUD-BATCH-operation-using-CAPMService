@@ -1,0 +1,142 @@
+[
+    {
+        "UNIQUE_ID": 6193432475205632,
+        "PRODUCT_ID": "PRODUCT_ID1",
+        "UNIQUE_DESC": "UNIQUE_DESC1",
+        "UID_TYPE": "UID_TYPE1",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 8484742492061696,
+        "PRODUCT_ID": "PRODUCT_ID2",
+        "UNIQUE_DESC": "UNIQUE_DESC2",
+        "UID_TYPE": "UID_TYPE2",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 7171206948061184,
+        "PRODUCT_ID": "PRODUCT_ID3",
+        "UNIQUE_DESC": "UNIQUE_DESC3",
+        "UID_TYPE": "UID_TYPE3",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 2858227024789504,
+        "PRODUCT_ID": "PRODUCT_ID4",
+        "UNIQUE_DESC": "UNIQUE_DESC4",
+        "UID_TYPE": "UID_TYPE4",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 607084341100544,
+        "PRODUCT_ID": "PRODUCT_ID5",
+        "UNIQUE_DESC": "UNIQUE_DESC5",
+        "UID_TYPE": "UID_TYPE5",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 1426269130457088,
+        "PRODUCT_ID": "PRODUCT_ID6",
+        "UNIQUE_DESC": "UNIQUE_DESC6",
+        "UID_TYPE": "UID_TYPE6",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 973187431006208,
+        "PRODUCT_ID": "PRODUCT_ID7",
+        "UNIQUE_DESC": "UNIQUE_DESC7",
+        "UID_TYPE": "UID_TYPE7",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 5926275539533824,
+        "PRODUCT_ID": "PRODUCT_ID8",
+        "UNIQUE_DESC": "UNIQUE_DESC8",
+        "UID_TYPE": "UID_TYPE8",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 8788601714245632,
+        "PRODUCT_ID": "PRODUCT_ID9",
+        "UNIQUE_DESC": "UNIQUE_DESC9",
+        "UID_TYPE": "UID_TYPE9",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 1399210819715072,
+        "PRODUCT_ID": "PRODUCT_ID10",
+        "UNIQUE_DESC": "UNIQUE_DESC10",
+        "UID_TYPE": "UID_TYPE10",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 2770434126774272,
+        "PRODUCT_ID": "PRODUCT_ID11",
+        "UNIQUE_DESC": "UNIQUE_DESC11",
+        "UID_TYPE": "UID_TYPE11",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 3436480802324480,
+        "PRODUCT_ID": "PRODUCT_ID12",
+        "UNIQUE_DESC": "UNIQUE_DESC12",
+        "UID_TYPE": "UID_TYPE12",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 3030483195658240,
+        "PRODUCT_ID": "PRODUCT_ID13",
+        "UNIQUE_DESC": "UNIQUE_DESC13",
+        "UID_TYPE": "UID_TYPE13",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 1363928114266112,
+        "PRODUCT_ID": "PRODUCT_ID14",
+        "UNIQUE_DESC": "UNIQUE_DESC14",
+        "UID_TYPE": "UID_TYPE14",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 1197070163640320,
+        "PRODUCT_ID": "PRODUCT_ID15",
+        "UNIQUE_DESC": "UNIQUE_DESC15",
+        "UID_TYPE": "UID_TYPE15",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 6929942956736512,
+        "PRODUCT_ID": "PRODUCT_ID16",
+        "UNIQUE_DESC": "UNIQUE_DESC16",
+        "UID_TYPE": "UID_TYPE16",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 553437202743296,
+        "PRODUCT_ID": "PRODUCT_ID17",
+        "UNIQUE_DESC": "UNIQUE_DESC17",
+        "UID_TYPE": "UID_TYPE17",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 1725956018405376,
+        "PRODUCT_ID": "PRODUCT_ID18",
+        "UNIQUE_DESC": "UNIQUE_DESC18",
+        "UID_TYPE": "UID_TYPE18",
+        "ACTIVE": true
+    },
+    {
+        "UNIQUE_ID": 3711086635253760,
+        "PRODUCT_ID": "PRODUCT_ID19",
+        "UNIQUE_DESC": "UNIQUE_DESC19",
+        "UID_TYPE": "UID_TYPE19",
+        "ACTIVE": false
+    },
+    {
+        "UNIQUE_ID": 4235788325748736,
+        "PRODUCT_ID": "PRODUCT_ID20",
+        "UNIQUE_DESC": "UNIQUE_DESC20",
+        "UID_TYPE": "UID_TYPE20",
+        "ACTIVE": true
+    }
+]

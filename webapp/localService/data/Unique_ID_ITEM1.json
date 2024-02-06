@@ -1,0 +1,142 @@
+[
+    {
+        "UNIQUE_ID": 7985256063827968,
+        "PRODUCT": "PRODUCT1",
+        "CHAR_NUM": 6951022570242048,
+        "CHAR_NUMVAL": "CHAR_NUMVAL1",
+        "NEW_VAL": "NEW_VAL1"
+    },
+    {
+        "UNIQUE_ID": 3558563936993280,
+        "PRODUCT": "PRODUCT2",
+        "CHAR_NUM": 6686703647457280,
+        "CHAR_NUMVAL": "CHAR_NUMVAL2",
+        "NEW_VAL": "NEW_VAL2"
+    },
+    {
+        "UNIQUE_ID": 3668642478686208,
+        "PRODUCT": "PRODUCT3",
+        "CHAR_NUM": 5512026124189696,
+        "CHAR_NUMVAL": "CHAR_NUMVAL3",
+        "NEW_VAL": "NEW_VAL3"
+    },
+    {
+        "UNIQUE_ID": 157802173562880,
+        "PRODUCT": "PRODUCT4",
+        "CHAR_NUM": 1783989371142144,
+        "CHAR_NUMVAL": "CHAR_NUMVAL4",
+        "NEW_VAL": "NEW_VAL4"
+    },
+    {
+        "UNIQUE_ID": 2369559117955072,
+        "PRODUCT": "PRODUCT5",
+        "CHAR_NUM": 7491044648157184,
+        "CHAR_NUMVAL": "CHAR_NUMVAL5",
+        "NEW_VAL": "NEW_VAL5"
+    },
+    {
+        "UNIQUE_ID": 5954558599626752,
+        "PRODUCT": "PRODUCT6",
+        "CHAR_NUM": 8953896850423808,
+        "CHAR_NUMVAL": "CHAR_NUMVAL6",
+        "NEW_VAL": "NEW_VAL6"
+    },
+    {
+        "UNIQUE_ID": 782877996351488,
+        "PRODUCT": "PRODUCT7",
+        "CHAR_NUM": 1079870266277888,
+        "CHAR_NUMVAL": "CHAR_NUMVAL7",
+        "NEW_VAL": "NEW_VAL7"
+    },
+    {
+        "UNIQUE_ID": 5165275844444160,
+        "PRODUCT": "PRODUCT8",
+        "CHAR_NUM": 7000020758822912,
+        "CHAR_NUMVAL": "CHAR_NUMVAL8",
+        "NEW_VAL": "NEW_VAL8"
+    },
+    {
+        "UNIQUE_ID": 6219799778557952,
+        "PRODUCT": "PRODUCT9",
+        "CHAR_NUM": 7429937006903296,
+        "CHAR_NUMVAL": "CHAR_NUMVAL9",
+        "NEW_VAL": "NEW_VAL9"
+    },
+    {
+        "UNIQUE_ID": 357781053898752,
+        "PRODUCT": "PRODUCT10",
+        "CHAR_NUM": 1711059815628800,
+        "CHAR_NUMVAL": "CHAR_NUMVAL10",
+        "NEW_VAL": "NEW_VAL10"
+    },
+    {
+        "UNIQUE_ID": 3619259758411776,
+        "PRODUCT": "PRODUCT11",
+        "CHAR_NUM": 4698686047125504,
+        "CHAR_NUMVAL": "CHAR_NUMVAL11",
+        "NEW_VAL": "NEW_VAL11"
+    },
+    {
+        "UNIQUE_ID": 227634044731392,
+        "PRODUCT": "PRODUCT12",
+        "CHAR_NUM": 7281842516393984,
+        "CHAR_NUMVAL": "CHAR_NUMVAL12",
+        "NEW_VAL": "NEW_VAL12"
+    },
+    {
+        "UNIQUE_ID": 4283611847065600,
+        "PRODUCT": "PRODUCT13",
+        "CHAR_NUM": 4172887223173120,
+        "CHAR_NUMVAL": "CHAR_NUMVAL13",
+        "NEW_VAL": "NEW_VAL13"
+    },
+    {
+        "UNIQUE_ID": 1834907319926784,
+        "PRODUCT": "PRODUCT14",
+        "CHAR_NUM": 3781977633193984,
+        "CHAR_NUMVAL": "CHAR_NUMVAL14",
+        "NEW_VAL": "NEW_VAL14"
+    },
+    {
+        "UNIQUE_ID": 6521002045472768,
+        "PRODUCT": "PRODUCT15",
+        "CHAR_NUM": 4358857312698368,
+        "CHAR_NUMVAL": "CHAR_NUMVAL15",
+        "NEW_VAL": "NEW_VAL15"
+    },
+    {
+        "UNIQUE_ID": 4849354233872384,
+        "PRODUCT": "PRODUCT16",
+        "CHAR_NUM": 6579689487335424,
+        "CHAR_NUMVAL": "CHAR_NUMVAL16",
+        "NEW_VAL": "NEW_VAL16"
+    },
+    {
+        "UNIQUE_ID": 3678183920500736,
+        "PRODUCT": "PRODUCT17",
+        "CHAR_NUM": 5491583673696256,
+        "CHAR_NUMVAL": "CHAR_NUMVAL17",
+        "NEW_VAL": "NEW_VAL17"
+    },
+    {
+        "UNIQUE_ID": 1773183430557696,
+        "PRODUCT": "PRODUCT18",
+        "CHAR_NUM": 1846147601661952,
+        "CHAR_NUMVAL": "CHAR_NUMVAL18",
+        "NEW_VAL": "NEW_VAL18"
+    },
+    {
+        "UNIQUE_ID": 5920141661437952,
+        "PRODUCT": "PRODUCT19",
+        "CHAR_NUM": 497937041850368,
+        "CHAR_NUMVAL": "CHAR_NUMVAL19",
+        "NEW_VAL": "NEW_VAL19"
+    },
+    {
+        "UNIQUE_ID": 799119622799360,
+        "PRODUCT": "PRODUCT20",
+        "CHAR_NUM": 4799400211644416,
+        "CHAR_NUMVAL": "CHAR_NUMVAL20",
+        "NEW_VAL": "NEW_VAL20"
+    }
+]

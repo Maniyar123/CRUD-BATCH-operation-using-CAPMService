@@ -1,0 +1,59 @@
+<core:FragmentDefinition xmlns:macros="sap.fe.macros" xmlns:form="sap.ui.layout.form" xmlns="sap.m"  xmlns:tnt="sap.tnt"
+xmlns:core="sap.ui.core" id="createFragment" >
+<Dialog id="fragmentDailog">
+<customHeader>
+			<Toolbar id="customHeader">
+				<ToolbarSpacer id="toolBarSpacer"/>
+				<Title text="EMPLOYEE FORM"  level="H2" id="headerTittle" />
+				<ToolbarSpacer id="toolBar3"/>
+				<Button id="cancelIcon" icon="sap-icon://sys-cancel"  press="closeIcon" ariaLabelledBy="cancelButtonLabel"/>
+			</Toolbar>
+
+		</customHeader>
+<VBox >
+<form:SimpleForm id="dailogForm" >
+           
+   <form:content>
+   
+   <Label text="ID" labelFor="idInput" id="label1"></Label>
+   <Input value="{inputModel>/ID}" id="fragmentIdInput" enabled="true"></Input>
+
+ 
+   <Label text="NAME" labelFor="nameInput" id="label2"></Label>
+   <Input value="{inputModel>/NAME}"></Input>
+   
+   <Label text="DOJ" labelFor="dojInput" id="label3"></Label>
+   <Input value="{inputModel>/DOJ}" ></Input>
+   
+
+   <Label text="ROLE" labelFor="roleInput" id="label4"></Label>
+   <Input value="{inputModel>/ROLE}"></Input>
+   
+
+   <Label text="COMPANYN" labelFor="companyInput" id="label5"></Label>
+   <Input value="{inputModel>/COMPANYN}"></Input>
+
+
+   <Label text="SKILLED" labelFor="skillInput" id="label6"></Label>
+   <Input value="{inputModel>/SKILLED}"></Input>
+   
+   </form:content>
+
+</form:SimpleForm>
+
+</VBox>
+<!-- <footer>
+				<Toolbar id="toolBar">
+				<Button id="sub"  text="Submit"  press="SubmitButton" ></Button>
+				<Button id="RefreshButton" text="Refresh" press="RefreshButton"></Button>
+				</Toolbar>
+				</footer> -->
+            <beginButton>
+                 <Button id="sub"  text="Submit" type="Success" press="SubmitButton"  ></Button>
+            </beginButton>
+            <endButton>
+                     <Button id="RefreshButton" text="Refresh" icon="sap-icon://refresh" type="Reject" press="RefreshButton"></Button>
+                    
+            </endButton>
+</Dialog>
+</core:FragmentDefinition>
